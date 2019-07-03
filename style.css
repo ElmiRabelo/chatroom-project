@@ -13,3 +13,21 @@
   outline: none !important;
 }
 
+.username {
+  font-weight: bold;
+}
+
+.time {
+  font-size: 0.7rem;
+  color: #999;
+}
+
+.update-mssg {
+  display: none;
+  text-align: center;
+  background: #43d9be;
+  padding: 5px;
+  margin-top: 5px;
+  color: 111;
+  border-radius: 4px;
+}
